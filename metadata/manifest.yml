@@ -65,5 +65,5 @@ Endpoints:
       health: true
 Install-Build-Required: false
 #Source-Url: file:///root/php21/
-#Source-Url: git://github.com/yanywang/php21.git
-Source-Url: https://github.com/yanywang/php21/blob/master/php21.tar.gz
+Source-Url: git://github.com/yanywang/php21.git
+#Source-Url: https://github.com/yanywang/php21/blob/master/php21.tar.gz
